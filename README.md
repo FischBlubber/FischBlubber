@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FischBlubber
 - 👀 I’m interested in programming and animating
-- 🌱 I’m currently learning java (processing)
-- 💞️ I’m looking to collaborate on my game called monster room
+- 🌱 I’m currently learning html and javaScript
+- 💞️ I’m looking to collaborate on a Game I made without a Name
 - 📫 How to reach me? Idk. Why should you?
 
 <!---
