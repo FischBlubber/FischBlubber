@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FischBlubber
 - 👀 I’m interested in programming and animating
-- 🌱 I’m currently learning html and javaScript
-- 💞️ I’m looking to collaborate on a Game I made without a Name
-- 📫 How to reach me? Idk. Why should you?
+- 🌱 I’m currently learning creating a game called "Monster Room"
+- 💞️ I’m looking to collect ideas on what to add
+- 📫 If you want to reach me, go to my youtube channel: https://www.youtube.com/@MonsterRoomOfficial/videos
 
 <!---
 FischBlubber/FischBlubber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
